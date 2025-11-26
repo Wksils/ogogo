@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Учёба колледж\проффессионалы\ДЗ\interf\interf\bin\Debug\net9.0\interf.exe
+C:\Users\User\Desktop\Учёба колледж\проффессионалы\ДЗ\interf\interf\bin\Debug\net9.0\interf.deps.json
+C:\Users\User\Desktop\Учёба колледж\проффессионалы\ДЗ\interf\interf\bin\Debug\net9.0\interf.runtimeconfig.json
+C:\Users\User\Desktop\Учёба колледж\проффессионалы\ДЗ\interf\interf\bin\Debug\net9.0\interf.dll
+C:\Users\User\Desktop\Учёба колледж\проффессионалы\ДЗ\interf\interf\bin\Debug\net9.0\interf.pdb
+C:\Users\User\Desktop\Учёба колледж\проффессионалы\ДЗ\interf\interf\obj\Debug\net9.0\interf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Учёба колледж\проффессионалы\ДЗ\interf\interf\obj\Debug\net9.0\interf.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Учёба колледж\проффессионалы\ДЗ\interf\interf\obj\Debug\net9.0\interf.AssemblyInfo.cs
+C:\Users\User\Desktop\Учёба колледж\проффессионалы\ДЗ\interf\interf\obj\Debug\net9.0\interf.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учёба колледж\проффессионалы\ДЗ\interf\interf\obj\Debug\net9.0\interf.dll
+C:\Users\User\Desktop\Учёба колледж\проффессионалы\ДЗ\interf\interf\obj\Debug\net9.0\refint\interf.dll
+C:\Users\User\Desktop\Учёба колледж\проффессионалы\ДЗ\interf\interf\obj\Debug\net9.0\interf.pdb
+C:\Users\User\Desktop\Учёба колледж\проффессионалы\ДЗ\interf\interf\obj\Debug\net9.0\interf.genruntimeconfig.cache
+C:\Users\User\Desktop\Учёба колледж\проффессионалы\ДЗ\interf\interf\obj\Debug\net9.0\ref\interf.dll
